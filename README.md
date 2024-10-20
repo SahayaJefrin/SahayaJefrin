@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahaya Jefrin M</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
 - 📫 How to reach me **sahayajefrin18@gmail.com**
 
